@@ -3,8 +3,8 @@
     This PowerShell script ensures that the Windows Installer feature "Always install with elevated privileges" is disabled by setting the AlwaysInstallElevated registry value to 0.
 
 .NOTES
-    Author          : [Your Name]
-    LinkedIn        : linkedin.com/in/[your-linkedin]/
+    Author          : Angel Cabrera
+    LinkedIn        : www.linkedin.com/in/angelcabrerajr
     GitHub          : github.com/angcra05
     Date Created    : 2026-09-20
     Last Modified   : 2026-09-23
