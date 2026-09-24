@@ -3,8 +3,8 @@
     This PowerShell script configures the system to ignore NetBIOS name release requests except from WINS servers by setting the NoNameReleaseOnDemand registry value to 1.
 
 .NOTES
-    Author          : [Your Name]
-    LinkedIn        : linkedin.com/in/[your-linkedin]/
+    Author          : Angel Cabrera
+    LinkedIn        : www.linkedin.com/in/angelcabrerajr
     GitHub          : github.com/angcra05
     Date Created    : 2026-09-21
     Last Modified   : 2026-09-23
