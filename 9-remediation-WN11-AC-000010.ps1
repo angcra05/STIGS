@@ -3,8 +3,8 @@
     This PowerShell script configures the account lockout threshold to 3 invalid logon attempts by setting the local "Account lockout threshold" policy.
 
 .NOTES
-    Author          : [Your Name]
-    LinkedIn        : linkedin.com/in/[your-linkedin]/
+    Author          : Angel Caberera
+    LinkedIn        : www.linkedin.com/in/angelcabrerajr
     GitHub          : github.com/angcra05
     Date Created    : 2026-09-21
     Last Modified   : 2026-09-23
