@@ -3,8 +3,8 @@
     This PowerShell script configures the account lockout duration to 15 minutes by setting the local "Account lockout duration" policy.
 
 .NOTES
-    Author          : [Your Name]
-    LinkedIn        : linkedin.com/in/[your-linkedin]/
+    Author          : Angel Cabrera
+    LinkedIn        : www.linkedin.com/in/angelcabrerajr
     GitHub          : github.com/angcra05
     Date Created    : 2026-09-21
     Last Modified   : 2026-09-23
