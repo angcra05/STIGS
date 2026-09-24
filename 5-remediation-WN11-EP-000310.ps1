@@ -3,8 +3,8 @@
     This PowerShell script enables Kernel DMA Protection by setting the DeviceEnumerationPolicy registry value to 0 (Block all external devices incompatible with Kernel DMA Protection).
 
 .NOTES
-    Author          : [Your Name]
-    LinkedIn        : linkedin.com/in/[your-linkedin]/
+    Author          : Angel Cabrera
+    LinkedIn        : www.linkedin.com/in/angelcabrerajr
     GitHub          : github.com/angcra05
     Date Created    : 2026-09-21
     Last Modified   : 2026-09-23
