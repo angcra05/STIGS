@@ -3,8 +3,8 @@
     This PowerShell script configures the default autorun behavior to prevent autorun commands by setting the NoAutorun registry value to 1.
 
 .NOTES
-    Author          : [Your Name]
-    LinkedIn        : linkedin.com/in/[your-linkedin]/
+    Author          : Angel Caberera
+    LinkedIn        : www.linkedin.com/in/angelcabrerajr
     GitHub          : github.com/angcra05
     Date Created    : 2026-09-21
     Last Modified   : 2026-09-23
